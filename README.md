@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Alan Parniyan
-- 👀 I’m interested in web programming
-- 🌱 I’m currently learning React
+- 👀 I’m interested in web programming, front-end development, React.js
 - - 📫 How to reach me alanparniyan@gmail.com
 
 <!---
