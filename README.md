@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Alan Parniyan
-- 👀 I’m interested in web programming, front-end development, React.js
-- - 📫 How to reach me alanparniyan@gmail.com
+front-end, React.js, alanparniyan@gmail.com
 
 <!---
 exshid/exshid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
